@@ -1,0 +1,10 @@
+/home/administrator/Documents/GitHub/Rust-Course/rustproject/rusty-pendulum/target/debug/deps/librusttype-b499da18de6b549b.rmeta: /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/home/administrator/Documents/GitHub/Rust-Course/rustproject/rusty-pendulum/target/debug/deps/librusttype-b499da18de6b549b.rlib: /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/home/administrator/Documents/GitHub/Rust-Course/rustproject/rusty-pendulum/target/debug/deps/rusttype-b499da18de6b549b.d: /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs:
+/home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs:
+/home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs:
+/home/administrator/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs:
