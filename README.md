@@ -24,4 +24,4 @@ Este programa em Rust simula o movimento de dois pêndulos usando a biblioteca `
 - O módulo `vector` contém uma estrutura simples `Vector` usada para cálculos de posição.
 
 ## Créditos
-Este programa foi criado pelo tutorial do canal do YT Manual do Código link[https://www.youtube.com/watch?v=U-X51GsTAzA]
+Este programa foi digitado a partir do tutorial do YT -> Manual do Código [linkYT](https://www.youtube.com/watch?v=U-X51GsTAzA)
